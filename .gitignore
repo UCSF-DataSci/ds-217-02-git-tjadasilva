@@ -1,0 +1,13 @@
+# Ignore this (MacOS) filename wherever it shows up
+.DS_Store
+
+# Ignore these folders anywhere (your virtual environment directory)
+venv/
+myproject_env/
+
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore any file ending with .venv
+*.venv
+
