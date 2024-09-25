@@ -11,3 +11,17 @@ I am a geriatrician from Brazil, now transitioning into an academic research car
 
 ## Useful Links:
 - [Official Python Website](https://www.python.org)
+
+# Assignment 2
+
+## Installation Screenshot
+
+Here is a screenshot showing the successful installation of the package:
+
+![Installation Screenshot](./screenshot.png)
+
+## Meme from the internet
+
+Here is a meme I relate to:
+
+![Funny Meme](https://www.boredpanda.com/blog/wp-content/uploads/2022/09/relatable-funny-memes-28-63281fda93e4c__700.jpg)
